@@ -1,0 +1,21 @@
+---
+title: "Jess's Cookbook"
+author: "By: Jessica Leathe"
+date: "Published: December 4, 2024"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib, packages.bib]
+link-citations: yes
+---
+
+# Welcome to Jess's Cookbook {.unnumbered}
+
+<div class="custom-image">
+```{r cover-image, echo=FALSE}
+knitr::include_graphics("DSC_0165.jpg")
+```
+</div>
+
+<div class="words">
+"Jess's Cookbook" is your ultimate guide to creating delicious and memorable meals for every occasion. Packed with a variety of recipes for breakfast, lunch, dinner, and desserts, this book offers something for everyone, from classic favorites to creative culinary twists. Whether you're a seasoned chef or a beginner in the kitchen, you'll find easy-to-follow instructions, helpful tips, and precise measurements to ensure success with every dish. The cookbook also features a comprehensive Measurements and Conversions section, making it easier than ever to adapt recipes to your needs. Get ready to elevate your cooking skills and bring joy to the table with every bite!
+</div>

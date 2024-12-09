@@ -1,0 +1,9 @@
+bookdown::gitbook:
+  css: style.css
+  config:
+    title: "Jess's Cookbook"
+    edit_link: false
+    home: index.html
+    sharing: null
+    download: false
+

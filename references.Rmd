@@ -1,0 +1,13 @@
+# References {-}
+
+1. Collins, Nicole. “Food Blog: United States: The Yummy Muffin.” *Yummy Muffin*, 29 Nov. 2024, [www.theyummymuffin.com](https://www.theyummymuffin.com/).
+
+2. Dingwall, Holly. “Foodieholly’s Recipes from around the World.” *Foodieholly*, 29 Nov. 2024, [foodieholly.com](https://foodieholly.com/).
+
+3. Gritzer, Daniel. “Perfect Quick-and-Easy French Toast Recipe.” *Serious Eats*, Serious Eats, 5 Nov. 2024, [www.seriouseats.com/perfect-quick-easy-french-toast](https://www.seriouseats.com/perfect-quick-easy-french-toast).
+
+4. Oniki, Mallory. “The Palatable Life.” *The Palatable Life*, 2 Apr. 2021, [www.thepalatablelife.com](https://www.thepalatablelife.com/).
+
+5. Rivers, Alyssa. *The Recipe Critic*, 25 Nov. 2024, [www.therecipecritic.com](https://www.therecipecritic.com/).
+
+6. Xie, Yihui. “Authoring Books and Technical Documents with R Markdown.” Bookdown, 25 Oct. 2024, [www.bookdown.org](https://bookdown.org/yihui/bookdown/). 

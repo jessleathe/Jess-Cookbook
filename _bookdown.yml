@@ -1,0 +1,13 @@
+delete_merged_file: true
+language:
+  ui:
+    chapter_name: ""
+rmd_files:
+  - index.Rmd
+  - meas-conv.Rmd
+  - 01-breakfast.Rmd
+  - 02-lunch.Rmd
+  - 03-dinner.Rmd
+  - 04-desserts.Rmd
+  - Ratings.Rmd
+  - references.Rmd

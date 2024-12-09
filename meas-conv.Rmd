@@ -1,0 +1,77 @@
+# Measurements and Conversions {-}
+
+## Temperature Conversions {-}
+
+| **Fahrenheit (°F)** | **Celsius (°C)** | **Gas Mark** |
+|------------------|--------------|----------|
+| 500             | 260          | 10       |
+| 473             | 245          | 9        |
+| 446             | 230          | 8        |
+| 428             | 220          | 7        |
+| 392             | 200          | 6        |
+| 374             | 190          | 5        |
+| 347             | 175          | 4        |
+| 329             | 165          | 3        |
+| 302             | 150          | 2        |
+| 275             | 135          | 1        |
+| 248             | 120          | 1/2      |
+
+Use this online calculator to convert temperatures:
+
+- [Temperature Conversion Calulator](https://www.unitconverters.net/temperature-converter.html)
+
+---
+
+## Dry Weights {-}
+
+| Measurement     | Cups | Ounces | Grams | Pounds |
+|------------------|------|--------|-------|--------|
+| 1 Tablespoon    | 1/16 | 1/2 oz | 15 g  | /      |
+| 2 Tablespoons   | 1/8  | 1 oz   | 28 g  | /      |
+| 4 Tablespoons   | 1/4  | 2 oz   | 57 g  | /      |
+| 8 Tablespoons   | 1/2  | 4 oz   | 115 g | 1/4 lb |
+| 16 Tablespoons  | 1    | 8 oz   | 227 g | 1/2 lb |
+| 32 Tablespoons  | 2    | 16 oz  | 455 g | 1 lb   |
+
+Find these tools useful for converting dry ingredient weights:
+
+- [Cooking Measurement Conversion Calculator](https://goodcalculators.com/cooking-conversion-calculator/)
+- [Cooking Conversion Calculator](https://www.inchcalculator.com/cooking-conversion-calculator/)
+
+---
+
+## Liquid Volumes {-}
+
+| Fluid Ounces | Tablespoons | Cups | Milliliters | Pints | Quarts |
+|--------------|-------------|------|-------------|-------|--------|
+| 1 fl oz      | 2 tsp       | 1/8  | 30 ml       | /     | /      |
+| 2 fl oz      | 4 tbsp      | 1/4  | 60 ml       | /     | /      |
+| 4 fl oz      | 8 tbsp      | 1/2  | 120 ml      | /     | /      |
+| 8 fl oz      | 16 tbsp     | 1    | 240 ml      | 1/2 pt| /      |
+| 16 fl oz     | 32 tbsp     | 2    | 480 ml      | 1 pt  | /      |
+| 32 fl oz     | 64 tbsp     | 4    | 950 ml      | 2 pt  | 1 qt   |
+
+Use these tools to convert between different liquid measurements:
+
+- [Cooking Measurement Conversion Calculator](https://goodcalculators.com/cooking-conversion-calculator/)
+- [Cooking Conversion Calculator](https://www.inchcalculator.com/cooking-conversion-calculator/)
+
+---
+
+## Ingredient Conversions {-}
+
+| **Ingredient**      | **Volume** | **Weight (grams)** |
+|----------------------|------------|--------------------|
+| All Purpose Flour    | 1 Cup      | 125 g             |
+| Granulated Sugar     | 1 Cup      | 200 g             |
+| Butter               | 1 Cup      | 225 g             |
+| Chocolate Chips      | 1 Cup      | 175 g             |
+| Cocoa Powder         | 1 Cup      | 85 g              |
+| Powdered Sugar       | 1 Cup      | 120 g             |
+
+Find accurate ingredient conversions with these tools:
+
+- [Cooking Measurement Converter](https://www.omnicalculator.com/food/cooking-measurement)
+- [Cooking Measurement Conversion Calculator](https://goodcalculators.com/cooking-conversion-calculator/)
+
+---
